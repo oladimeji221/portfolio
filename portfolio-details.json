@@ -39,6 +39,26 @@
       "description": "Revamped Website"
     },
 
+    "GrameJohns": {
+      "title": "GrameJohns System",
+      "url": "https://gramejohnsystems.com/",
+      "category": "Business Website ",
+      "client": "",
+      "projectDate": "",
+      "projectUrl": "https://gramejohnsystems.com/",
+      "description": "A website that offers electrical services"
+    },
+
+    "Geoplot": {
+      "title": "Geoplot",
+      "url": "http://geoplotresources.com/",
+      "category": "Business Website ",
+      "client": "",
+      "projectDate": "",
+      "projectUrl": "http://geoplotresources.com/",
+      "description": "A website that deals with construction and real estate"
+    },
+    
     "Jfroyale": {
       "title": "JFRoyale Logistics",
       "url": "https://oladimeji221.github.io/jfroyale/",
